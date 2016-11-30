@@ -1,5 +1,5 @@
 # hello-world
-primer repositorio de prueba
+primer repositorio
 
 
 deseando comenzar !!!
